@@ -1,0 +1,41 @@
+body{
+    background-color: blue;
+}
+.div1{
+    background-color: rgb(227, 231, 238); 
+    /* margin: 10% 20%; */
+
+}
+input{
+    
+    color: black;
+    border: 1px solid gray;
+    width:100%;  
+    height: 50px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 5px;
+    
+}
+.div2{
+
+    float: right; 
+    background-color: rgb(227, 231, 238); 
+    color: white;
+    background-color: darkblue;
+    margin-top: 10px;
+    text-align: center;
+    width: 10%;
+    cursor: pointer;
+    
+
+}
+
+#stop_watch{
+    float: right;
+    background-color: rgb(227, 231, 238); 
+    color: white;
+    padding: 15px 50px;
+    border: 1px solid darkblue;
+    border-radius: 4px;
+}
